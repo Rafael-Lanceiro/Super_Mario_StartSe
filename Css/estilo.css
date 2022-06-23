@@ -44,7 +44,7 @@
     }
 }
 
-@keyframes cloud-game {
+@keyframes clouds-animation {
     from {
         right: -550px;
     }
