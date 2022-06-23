@@ -35,7 +35,7 @@
 
 /*KEYFRAMES*/
 
-@keyframes .pipe-animation {
+@keyframes pipe-animation {
     from{
         right: -80px;
     }
@@ -44,9 +44,9 @@
     }
 }
 
-@keyframes .cloud-game {
+@keyframes cloud-game {
     from {
-        -550px;
+        right: -550px;
     }
     to {
         right: 100%;
