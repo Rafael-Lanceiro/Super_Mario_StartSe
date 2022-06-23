@@ -32,3 +32,24 @@
     position: absolute;
     animation: clouds-animation 20s infinite linear;
 }
+
+/*KEYFRAMES*/
+
+@keyframes .pipe-animation {
+    from{
+        right: -80px;
+    }
+    to {
+        right: 100%;
+    }
+}
+
+@keyframes .cloud-game {
+    from {
+        -550px;
+    }
+    to {
+        right: 100%;
+    }
+}
+
