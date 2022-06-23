@@ -59,22 +59,22 @@
 
 @keyframes mario-animation {
     0% {
-        0;
+        bottom: 0;
     }
     40% {
-        180px;
+        bottom: 180px;
     }
     50% {
-        180px;
+        bottom: 180px;
     }
     60% {
-        180px;
+        bottom: 180px;
     }
     70% {
-        180px;
+        bottom: 180px;
     }
     100% {
-        0%
+        bottom: 0%;
     }
 }
 
